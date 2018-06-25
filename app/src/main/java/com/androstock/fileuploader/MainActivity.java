@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     File sourceFile;
     Uri selectedFileUri;
     int totalSize = 0;
-    String FILE_UPLOAD_URL = "http://poemal.com/eds/UploadToServer.php";
+    String FILE_UPLOAD_URL = "http://example.com/your_folder/UploadToServer.php";
     LinearLayout uploader_area;
     LinearLayout progress_area;
     public DonutProgress donut_progress;
